@@ -1,1 +1,1 @@
-# Retos del curso Programación con tecnologias web (ISIS3710)
+# ISIS3710 - Programación con tecnologias web
